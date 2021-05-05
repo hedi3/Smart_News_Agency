@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/Windows-Log-Off-icon.png</file>
+        <file>img/4285e494cea303a1be4655ca68266ec1.png</file>
+        <file>img/Add-icon.png</file>
+        <file>img/back.png</file>
+        <file>img/background.png</file>
+        <file>img/bg.png</file>
+        <file>img/browsing.png</file>
+        <file>img/chercher.png</file>
+        <file>img/concept-fond-marbre-gris_23-2148773735.png</file>
+        <file>img/confirm.png</file>
+        <file>img/cross .png</file>
+        <file>img/delete-icon.png</file>
+        <file>img/dish .png</file>
+        <file>img/edit .png</file>
+        <file>img/email.png</file>
+        <file>img/employee.png</file>
+        <file>img/excel (1).png</file>
+        <file>img/excel.png</file>
+        <file>img/images.png</file>
+        <file>img/menu.png</file>
+        <file>img/printer.png</file>
+        <file>img/remove.png</file>
+        <file>img/restaura.png</file>
+        <file>img/service.png</file>
+        <file>img/sort.png</file>
+        <file>img/sport-bag.png</file>
+        <file>img/unnamed.png</file>
+        <file>img/user-add-icon---shine-set-add-new-user-add-user-30.png</file>
+        <file>img/vegetables4_b72-.png</file>
+    </qresource>
+</RCC>
